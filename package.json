@@ -8,7 +8,7 @@
   "scripts": {
     "start": "parcel index.html",
     "predeploy": "npm build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d docs",
     "reinstall": "rimraf node_modules && npm cache clean && npm install",
     "build": "webpack --config webpack.config.js"
   },
