@@ -14,7 +14,7 @@
   <img src="./images//home.png?raw=true" alt="Home page"/>
 </p>
 <p align="center">
-  <img src="./images/services.png?raw=true" alt="Services"/>
+  <img src="images/services.png?raw=true" alt="Services"/>
 </p>
 <p align="center">
   <img src="./images/about-us.png?raw=true" alt="About us"/>
