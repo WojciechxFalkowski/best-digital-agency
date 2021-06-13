@@ -14,10 +14,10 @@
   <img src="https://github.com/WojciechxFalkowski/best-digital-agency/blob/main/images/home.png?raw=true" alt="Home page"/>
 </p>
 <p align="center">
-  <img src="https://github.com/WojciechxFalkowski/best-digital-agency/blob/main/images/services.png?raw=true" alt="Services"/>
+  <img src="./images/services.png?raw=true" alt="Services"/>
 </p>
 <p align="center">
-  <img src="https://github.com/WojciechxFalkowski/best-digital-agency/blob/main/images/about-us.png?raw=true" alt="About us"/>
+  <img src="https://github.com/WojciechxFalkowski/best-digital-agency/images/about-us.png?raw=true" alt="About us"/>
 </p>
 <p align="center">
   <img src="https://github.com/WojciechxFalkowski/best-digital-agency/blob/main/images/testimonials.png?raw=true" alt="Testimonials"/>
