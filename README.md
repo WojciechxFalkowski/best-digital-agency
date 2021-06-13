@@ -20,8 +20,5 @@
   <img src="./images/about-us.png?raw=true" alt="About us"/>
 </p>
 <p align="center">
-  <img src="./images/testimonials.png?raw=true" alt="Testimonials"/>
-</p>
-<p align="center">
   <img src="./images/contact-us.png?raw=true" alt="Contact us"/>
 </p>
