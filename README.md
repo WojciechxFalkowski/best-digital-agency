@@ -1,4 +1,4 @@
-# best digital agency
+# Best Digital Agency
 
 ### Technologies used:
 
